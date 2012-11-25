@@ -1,0 +1,191 @@
+Level 0
+diodereq=2
+tileset=sheet
+gamemode=normal
+shovel=1
+end
+
+Level 1
+diodereq=0
+tileset=sheet
+gamemode=normal
+shovel=2
+end
+
+Level 2
+diodereq=0
+tileset=sheet
+gamemode=normal
+shovel=1
+end
+
+Level 3
+diodereq=0
+tileset=sheet
+gamemode=normal
+shovel=1
+end
+
+Level 9
+diodereq=0
+tileset=alpha
+gamemode=normal
+shovel=1
+end
+
+Level 10
+diodereq=0
+tileset=alpha
+gamemode=normal
+shovel=0
+message0=WELCOME ROBOT 00001.nnPROCEED TO THEnRIGHT USING THEnA AND D KEYS.
+message1=JUMP OVER THEnOBSTACLES USING THEnW KEY.
+message2=IF A ROBOT ISnDESTROYED, A NEW ONEnWILL BE MANUFACTUREDnBY THE MOST RECENTLYnACTIVATED SPAWNER.
+message3=YOUR SOLE PURPOSEnIN THIS FACTORYnIS TO COLLECTnMETALLIC DIODES,nWHICH IN TURNnUNLOCK LEVELS.
+message4=ENTER THE DOORnTO THE LEVEL HUBnUSING THE S KEY.
+end
+
+Level 11
+diodereq=1
+tileset=alpha
+gamemode=normal
+shovel=0
+message0=ON THE PEDESTALnIS THE SPADE.nnIT WILL BE YOURnMOST VALUABLE TOOLnIN ALL THE TESTS.
+message1=DESTROY THESE BLOCKSnUSING THE ARROW KEYS.nn(u, d, l, r)
+message2=THE SPADE CAN ALSOnCREATE BLOCKSnOUT OF THIN AIR.nnBUILD A STAIRCASEnTO ADVANCE.
+message3=CREATE BLOCKSnUNDER YOUR FEETnBY STANDING OVERnAN EDGE.
+message4=THIS CONCLUDESnBASIC TRANING.nnCOLLECT DIODES TOnUNLOCK MORE LEVELS.nnGOOD LUCK.
+end
+
+Level 20
+diodereq=2
+tileset=alpha
+gamemode=horiz_autoscroll
+scrollspeed=0.5
+hproj=0
+vproj=0
+homing=0
+shovel=1
+message0=AREA 2 FOCUSESnON HORIZONTALnSCROLLING.nDON'T LOOK BACK!
+end
+
+Level 21
+diodereq=3
+tileset=alpha
+gamemode=horiz_autoscroll
+scrollspeed=0.5
+hproj=0
+vproj=70
+homing=0
+shovel=1
+message0=THESE FLYINGnOBSTACLES SHOULDnTEST YOUR REFLEXES.
+end
+
+Level 22
+diodereq=4
+tileset=alpha
+gamemode=horiz_autoscroll
+scrollspeed=0.4
+hproj=70
+vproj=0
+homing=0
+shovel=1
+message0=OKAY, NOWnFOR A REALnCHALLENGE.
+end
+
+Level 23
+diodereq=6
+tileset=alpha
+gamemode=horiz_autoscroll
+scrollspeed=0.4
+hproj=0
+vproj=0
+homing=100
+shovel=1
+message0=DID SOMEONE SAYnHOMING MISSILES?
+end
+
+Level 24
+diodereq=99
+tileset=alpha
+gamemode=normal
+shovel=1
+end
+
+Level 25
+diodereq=99
+tileset=alpha
+gamemode=normal
+shovel=1
+end
+
+Level 26
+diodereq=99
+tileset=alpha
+gamemode=normal
+shovel=1
+end
+
+Level 30
+diodereq=2
+tileset=alpha
+gamemode=vertical_autoscroll
+scrollspeed=0.275
+hproj=0
+vproj=0
+homing=0
+shovel=1
+message0=AREA 3 FOCUSESnON CLIMBING UPWARD.
+end
+
+Level 31
+diodereq=3
+tileset=alpha
+gamemode=vertical_autoscroll
+scrollspeed=0.25
+hproj=100
+vproj=0
+homing=0
+shovel=1
+message0=WATCH OUT FORnFLYING OBJECTS!
+end
+
+Level 32
+diodereq=4
+tileset=alpha
+gamemode=vertical_autoscroll
+scrollspeed=0.25
+hproj=0
+vproj=60
+homing=0
+shovel=1
+message0=WATCH OUT FORnMORE FYING OBJECTS!
+end
+
+Level 33
+diodereq=99
+tileset=alpha
+gamemode=normal
+shovel=1
+end
+
+Level 34
+diodereq=99
+tileset=alpha
+gamemode=normal
+shovel=1
+end
+
+Level 35
+diodereq=99
+tileset=alpha
+gamemode=normal
+shovel=1
+end
+
+Level 36
+diodereq=99
+tileset=alpha
+gamemode=normal
+shovel=1
+end

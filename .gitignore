@@ -1,6 +1,32 @@
 *.class
 
 # Package Files #
+#################
 *.jar
 *.war
 *.ear
+
+# Java #
+########
+.class
+
+# NetBeans Specific #
+#####################
+build/
+dist/
+nbproject/private/
+nbdist/
+nbactions.xml
+nb-configuration.xml
+*.nblh~
+build-impl.xml
+
+# Project Specific #
+####################
+# saves the player's progress
+save
+# old or unused graphics ideas, not used currently in-game.
+src/res/tiles/bank/
+src/res/level/bank/
+src/res/entities/bank/
+src/res/sound/bank/
